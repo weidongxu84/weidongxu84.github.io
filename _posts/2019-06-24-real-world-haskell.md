@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Book to read: Real World Haskell'
+title: 'Book to read - Real World Haskell'
 categories: [book]
 tags: [haskell]
 ---
