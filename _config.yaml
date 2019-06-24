@@ -3,4 +3,4 @@ destination         : .
 collections_dir     : .
 
 title: 'Weidong Xu -> GitHub'
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
