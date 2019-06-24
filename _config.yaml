@@ -1,4 +1,4 @@
 title       : 'Weidong Xu -> GitHub'
-theme       : jekyll-theme-minimal
+theme       : minima
 timezone    : 'Asia/Shanghai'
 future      : true
