@@ -1,8 +1,4 @@
-source              : .
-destination         : .
-collections_dir     : .
-
 title       : 'Weidong Xu -> GitHub'
 theme       : jekyll-theme-minimal
-timezone    : 'UTC+08:00'
+timezone    : 'Asia/Shanghai'
 future      : true
