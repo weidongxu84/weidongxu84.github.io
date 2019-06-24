@@ -2,3 +2,7 @@ title       : 'Weidong Xu -> GitHub'
 theme       : minima
 timezone    : 'Asia/Shanghai'
 future      : true
+
+minima:
+  social_links:
+    github: weidongxu84
