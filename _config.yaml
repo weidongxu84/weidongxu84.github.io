@@ -2,4 +2,5 @@ source              : .
 destination         : .
 collections_dir     : .
 
-theme: minima
+title: 'Weidong Xu -> GitHub'
+theme: minimal
