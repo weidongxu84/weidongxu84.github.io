@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Book to read: Real World Haskell'
-categories: book
+categories: book, computer science
 tags: haskell
 ---
 
