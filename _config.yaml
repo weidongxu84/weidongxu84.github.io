@@ -6,3 +6,6 @@ future      : true
 minima:
   social_links:
     github: weidongxu84
+
+plugins:
+  - jekyll-feed
