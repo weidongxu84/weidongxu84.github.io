@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'StackEdit'
+title: 'Useful tool: StackEdit'
 categories: software
 ---
 
