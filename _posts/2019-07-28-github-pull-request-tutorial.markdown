@@ -1,5 +1,5 @@
 ---
-title: Useful Guide: GitHub Pull Request Tutorial
+title: 'Useful Guide: GitHub Pull Request Tutorial'
 layout: post
 categories: guide
 tags: github
