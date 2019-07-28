@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Book to read: Online Statistics Education: An Interactive Multimedia Course of Study'
-categories: software
+categories: book
 tags: statistics
 ---
 
